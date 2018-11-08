@@ -46,4 +46,7 @@
   <project path="kernel/htc/flounder" name="android_kernel_htc_flounder" groups="device,flounder" remote="tmartin" clone-depth="1" />
   <project path="device/htc/flounder" name="android_device_htc_flounder" groups="device,flounder,pdk" remote="tmartin" />
 
+  <project path="kernel/asus/flo" name="android_kernel_asus_flo" groups="device,flo" remote="tmartin" clone-depth="1" />
+  <project path="device/asus/flo" name="android_device_asus_flo" groups="device,flo,pdk" remote="tmartin" />
+
 </manifest>
